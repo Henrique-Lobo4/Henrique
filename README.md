@@ -1,4 +1,4 @@
-#Henrique
+#Paleontologia
 
 Assunto: Paleontologia e como ela nos ajuda a entender a vida de eras passadas e como se originou. OBS: Link do notebookLM ao final do README
  
